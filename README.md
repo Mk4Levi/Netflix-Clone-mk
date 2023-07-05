@@ -2,7 +2,7 @@
 
 ## => This is Netflix Clone
 
-## Website Link => https://mk-netflic-clone.vercel.app/
+## Website Link => https://mk-netflic-clone.netlify.app/
 
 <h2>Getting Started</h2>
 
