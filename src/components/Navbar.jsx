@@ -3,9 +3,9 @@ import { Link } from "react-router-dom";
 import { ImSearch } from "react-icons/im";
 import netflixLogo from "../assets/netflix-logo.png";
 
-function Navbarr() {
+function Navbar() {
   return (
-    <>
+    <div>
       <nav className="navbar">
         <div className="navbar nav-left">
           <img
@@ -21,8 +21,8 @@ function Navbarr() {
         </div>
         <ImSearch />
       </nav>
-    </>
+    </div>
   );
 }
 
-export default Navbarr;
+export default Navbar;
